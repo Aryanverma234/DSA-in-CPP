@@ -1,3 +1,6 @@
+// Striver DSA A2Z Sheet
+// Pattern 02 - Right Angled Triangle Pattern
+
 #include <iostream>
 using namespace std;
 

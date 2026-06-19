@@ -1,3 +1,6 @@
+// Striver DSA A2Z Sheet
+// Pattern 01 - Rectangular Star Pattern
+
 #include <iostream>
 using namespace std;
 
